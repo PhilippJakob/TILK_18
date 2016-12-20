@@ -10,4 +10,9 @@ package gitEinstieg;
 public class EineKlasseFürAlle
 {
   public void aufstehenHrKock(){}
+
+  public void streiten()
+  {
+	//Kommentar von Hr Jakob
+  }
 }
