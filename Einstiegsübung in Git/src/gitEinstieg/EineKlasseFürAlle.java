@@ -9,5 +9,5 @@ package gitEinstieg;
 
 public class EineKlasseFürAlle
 {
-
+  public void aufstehenHrKock(){}
 }
