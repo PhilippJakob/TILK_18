@@ -12,6 +12,8 @@ public class EineKlasseFürAlle
 
   public void aufstehenHrKock(){}  
   
+  public void aufstehenHrJakob(){}
+  
   public void rumlungernHrMueller(){}
   
   public void jodelnMichael(){}
@@ -24,6 +26,4 @@ public class EineKlasseFürAlle
   {
 	// Kock
   }
- 
-
 }
