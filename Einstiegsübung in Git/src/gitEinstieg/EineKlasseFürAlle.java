@@ -1,5 +1,6 @@
 
 
+
 /**
  * Angelegt 19.12.2016 Hr Jakob
  *
@@ -54,11 +55,14 @@ public class EineKlasseFürAlle
   
   public void duschenBastian(){}
   
-  public void streitenMark(){}
-
+  public void streitenMark(){} 
+  
+  public void arbeitenMareike(){}
+ 
   public void streiten()
   {
 	// Kock
   }
+
 
 
