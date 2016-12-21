@@ -43,11 +43,13 @@ public class EineKlasseFürAlle
   
   public void aufstehenHrAslan(){}
  
-  public void streitenGracjan()
+  public void streitenGracjan(){}
 
   public void werfenBlitzSerdar(){}
   
   public void duschenBastian(){}
+  
+  public void streitenMark(){}
   
   public void streiten()
   {
@@ -59,4 +61,5 @@ public class EineKlasseFürAlle
 
 
 }
+
 
