@@ -15,4 +15,5 @@ public class EineKlasseFürAlle
   {
 	// Kock
   }
+  public void lesenBryan(){}
 }
