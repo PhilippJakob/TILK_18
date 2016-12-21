@@ -21,13 +21,12 @@ public class EineKlasseFürAlle
   public void kommissionierenTobias(){}
 
   public void lesenBryan(){}
-  
 
+  public void spieltmitEmre(){}
   public void  schlafenLennart(){}
   
   public void streiten()
   {
 	// Kock
   }
-
 }
