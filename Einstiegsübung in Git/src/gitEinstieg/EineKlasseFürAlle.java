@@ -25,8 +25,12 @@ public class EineKlasseFürAlle
   public void spieltmitEmre(){}
   public void  schlafenLennart(){}
   
+
+  public void essenAli(){}
+  
   public void streiten()
   {
 	// Kock
   }
+
 }
