@@ -11,6 +11,8 @@ public class EineKlasseFürAlle
 {
   public void aufstehenHrKock(){}
 
+  public void aufstehenHrAslan(){}
+
   public void streiten()
   {
 	// Kock
