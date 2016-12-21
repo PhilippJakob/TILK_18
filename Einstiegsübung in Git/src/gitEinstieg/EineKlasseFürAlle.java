@@ -2,7 +2,6 @@
 
 
 
-
 /**
  * Angelegt 19.12.2016 Hr Jakob
  *
@@ -44,11 +43,14 @@ public class EineKlasseFürAlle
   public void aufstehenHrAslan(){}
  
   public void streitenGracjan()
+
+  public void werfenBlitzSerdar(){}
   
   public void streiten()
   {
 	// Kock
   }
+
 
 
 
