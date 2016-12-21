@@ -7,7 +7,7 @@
  */
 package gitEinstieg;
 
-public class EineKlasseFürAlle
+public class EineKlasseFÃ¼rAlle
 {
 
   public void aufstehenHrKock(){}
@@ -23,7 +23,7 @@ public class EineKlasseFürAlle
   public void lesenBryan(){}
 
   public void spieltmitEmre(){}
-  public void  schlafenLennart(){}
+  public voidÂ  schlafenLennart(){}
 
 
   public void essenAli(){}
