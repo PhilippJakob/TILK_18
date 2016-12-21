@@ -1,20 +1,41 @@
+
 /**
  * Angelegt 19.12.2016 Hr Jakob
  *
- * Zweck: Jeder soll hier eine eigene Methode hinzufügen.
- * Nach dem Muster: public void durchwühlenMichael(){}
+ * Zweck: Jeder soll hier eine eigene Methode hinzufÃ¼gen.
+ * Nach dem Muster: public void durchwÃ¼hlenMichael(){}
  *
  */
 package gitEinstieg;
 
-public class EineKlasseFürAlle
+public class EineKlasseFÃ¼rAlle
 {
-  public void aufstehenHrKock(){}
 
+  public void aufstehenHrKock(){}Â  
+  
+  public void aufstehenHrJakob(){}
+  
+  public void rumlungernHrMueller(){}
+  
+  public void jodelnMichael(){}
+
+  public void kommissionierenTobias(){}
+
+  public void lesenBryan(){}
+
+  public void spieltmitEmre(){}
+ 
+  public voidÂ  schlafenLennart(){}
+
+  public void essenRico(){}
+  
+  public void essenAli(){}
+  
   public void schlafenMoritz(){}
-
+  
   public void streiten()
   {
 	// Kock
   }
+
 }
