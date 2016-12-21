@@ -9,17 +9,21 @@ package gitEinstieg;
 
 public class EineKlasseFürAlle
 {
-  public void aufstehenHrKock(){}
 
-
+  public void aufstehenHrKock(){}  
+  
+  public void rumlungernHrMueller(){}
+  
   public void jodelnMichael(){}
 
   public void kommissionierenTobias(){}
 
-
+  public void lesenBryan(){}
+  
   public void streiten()
   {
 	// Kock
   }
-  public void lesenBryan(){}
+ 
+
 }
