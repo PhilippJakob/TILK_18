@@ -11,7 +11,7 @@ public class EineKlasseFürAlle
 {
   public void aufstehenHrKock(){}
 
-  public void abzappelnMichael(){}
+  public void jodelnMichael(){}
 
   public void streiten()
   {
