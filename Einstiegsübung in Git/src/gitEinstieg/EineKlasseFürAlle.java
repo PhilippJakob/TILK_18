@@ -15,4 +15,6 @@ public class EineKlasseFürAlle
   {
 	// Kock
   }
+  public void  schlafenLennart(){}
+
 }
