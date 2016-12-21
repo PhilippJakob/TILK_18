@@ -12,12 +12,12 @@ package gitEinstieg;
 public class EineKlasseFürAlle
 {
 
-  public void aufstehenHrKock(){}  
-  
+  public void aufstehenHrKock(){}
+
   public void aufstehenHrJakob(){}
-  
+
   public void rumlungernHrMueller(){}
-  
+
   public void jodelnMichael(){}
 
   public void kommissionierenTobias(){}
@@ -37,6 +37,8 @@ public class EineKlasseFürAlle
   public void essenRico(){}
   
   public void essenAli(){}
+
+  public void programmierenHenderkes(){}
   
   public void schlafenMoritz(){}
  
@@ -54,16 +56,9 @@ public class EineKlasseFürAlle
   
   public void streitenMark(){}
 
-  
   public void streiten()
   {
 	// Kock
   }
-
-
-
-
-
-}
 
 
