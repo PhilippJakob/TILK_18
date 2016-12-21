@@ -15,4 +15,10 @@ public class EineKlasseFürAlle
   {
 	// Kock
   }
+
+  public void werfenBlitzSerdar()
+  {
+
+  }
+
 }
