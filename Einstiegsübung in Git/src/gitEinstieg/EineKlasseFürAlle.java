@@ -1,5 +1,6 @@
 
 
+
 /**
  * Angelegt 19.12.2016 Hr Jakob
  *
@@ -35,6 +36,8 @@ public class EineKlasseFürAlle
   public void schlafenMoritz(){}
  
   public void bauenOnur(){}
+ 
+  public void aussteigenOliver(){}
   
   public void streiten()
   {
