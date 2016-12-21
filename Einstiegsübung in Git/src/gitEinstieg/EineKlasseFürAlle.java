@@ -11,8 +11,13 @@ public class EineKlasseFürAlle
 {
   public void aufstehenHrKock(){}
 
+  public void essenRico(){}
+
   public void streiten()
   {
 	// Kock
   }
+
+
+
 }
