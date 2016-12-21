@@ -1,3 +1,4 @@
+
 /**
  * Angelegt 19.12.2016 Hr Jakob
  *
@@ -23,10 +24,14 @@ public class EineKlasseFürAlle
   public void lesenBryan(){}
 
   public void spieltmitEmre(){}
+ 
   public void  schlafenLennart(){}
 
-   public void essenRico(){}
+  public void essenRico(){}
+  
   public void essenAli(){}
+  
+  public void schlafenMoritz(){}
   
   public void streiten()
   {
