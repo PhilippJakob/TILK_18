@@ -1,4 +1,5 @@
 
+
 /**
  * Angelegt 19.12.2016 Hr Jakob
  *
@@ -32,10 +33,13 @@ public class EineKlasseFürAlle
   public void essenAli(){}
   
   public void schlafenMoritz(){}
+ 
+  public void bauenOnur(){}
   
   public void streiten()
   {
 	// Kock
   }
+
 
 }
