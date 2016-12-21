@@ -7,15 +7,15 @@
  */
 package gitEinstieg;
 
-public class EineKlasseFürAlle
+public class EineKlasseF�rAlle
 {
 
-  public void aufstehenHrKock(){}  
-  
+  public void aufstehenHrKock(){}
+
   public void aufstehenHrJakob(){}
-  
+
   public void rumlungernHrMueller(){}
-  
+
   public void jodelnMichael(){}
 
   public void kommissionierenTobias(){}
@@ -23,11 +23,13 @@ public class EineKlasseFürAlle
   public void lesenBryan(){}
 
   public void spieltmitEmre(){}
-  public void  schlafenLennart(){}
-  
+  public void� schlafenLennart(){}
+
 
   public void essenAli(){}
-  
+
+  public void programmierenHenderkes(){}
+
   public void streiten()
   {
 	// Kock
