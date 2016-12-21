@@ -10,6 +10,7 @@ package gitEinstieg;
 public class EineKlasseFürAlle
 {
   public void aufstehenHrKock(){}
+  public void aufstehenHrJakob(){}
 
   public void streiten()
   {
