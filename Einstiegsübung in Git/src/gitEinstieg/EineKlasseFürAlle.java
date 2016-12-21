@@ -22,8 +22,12 @@ public class EineKlasseFürAlle
 
   public void lesenBryan(){}
   
+
+  public void  schlafenLennart(){}
+  
   public void streiten()
   {
 	// Kock
   }
+
 }
