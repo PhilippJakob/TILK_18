@@ -9,9 +9,17 @@ package gitEinstieg;
 
 public class EineKlasseFürAlle
 {
-  public void aufstehenHrKock(){}
+  public void aufstehenHrKock()
+  {
+
+  }
 
   public void streiten()
+  {
+	// Kock
+  }
+
+  public void streitenMark()
   {
 	// Kock
   }
